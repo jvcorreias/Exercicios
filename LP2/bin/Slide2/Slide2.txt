@@ -1,0 +1,72 @@
+PRATICANDO
+1. Leia o nome de uma pessoa e a sua idade. Depois, mostre uma
+mensagem como: “Maria tem 20 anos”.
+
+2. Leia dois números inteiros e mostre na tela a soma, a subtração, a
+multiplicação e a divisão entre eles.
+
+3. Leia um valor em segundos e mostre esse tempo no formato h:m:s
+(horas, minutos e segundos).
+
+4. Leia o valor do salário de uma pessoa e um percentual de aumento.
+Depois, mostre o novo salário com o aumento aplicado.
+
+5. Leia a massa e a altura de uma pessoa. Calcule e mostre o Índice de
+Massa Corporal (IMC), usando a fórmula: IMC = massa ÷ (altura²)
+
+6. Leia as notas de ap1 e ap2, calcule a média do aluno e mostre
+“Aprovado” se média for ≥ 7, senão mostre “Reprovado”.
+
+7. Leia dois números reais e mostre qual é o maior e qual é o menor.
+
+8. Leia um número inteiro n e mostre se ele é par ou ímpar.
+
+9. Leia a quantidade de kWh consumidos e o valor de cada kWh.
+Calcule o valor da conta. Se o consumo for menor que 150 kWh,
+aplique 10% de desconto. Mostre o valor da conta final
+
+10. Leia um número n, verifique e mostre se ele está dentro do intervalo entre 100 e
+999.
+
+11. Leia um número real x e mostre-o arredondado. Se a parte decimal for menor
+que 0.5, arredonde para baixo; se for maior ou igual a 0.5, arredonde para cima.
+
+12. Leia os três lados de um triângulo e mostre se ele é equilátero, isósceles ou
+escaleno.
+
+13. Leia um número inteiro de 1 a 7 e mostre o dia da semana correspondente (1 =
+Domingo, 2 = Segunda, ..., 7 = Sábado). Utilize a estrutura switch-case para
+resolver.
+
+14. Leia um caractere op representando uma operação aritmética (+, -, *, /) e dois
+números reais a e b. Mostre a expressão no formato a op b = resultado. Utilize a
+estrutura switch-case para resolver.
+
+15. Leia um número inteiro n e mostre os números de 1 até n em ordem decrescente.
+
+16. Leia um número inteiro n e mostre os números de 0 até n, caso n seja positivo. Se
+n for negativo, mostre de n até 0.
+
+17. Leia um número inteiro n e mostre todos os divisores de n.
+
+18. Leia um número inteiro n e calcule o somatório e a média dos números ímpares
+de 1 até n.
+
+19. Leia números inteiros positivos até que o usuário digite -1. Ao final, mostre a
+soma, a média aritmética, o menor e o maior número digitado.
+
+20. Leia caracteres até que o usuário digite um ponto (‘.’). Ao final, mostre: a
+quantidade de vogais, a quantidade de dígitos e a quantidade dos demais
+caracteres.
+
+21. Complemente a classe Matematica com métodos para subtrair,
+multiplicar e dividir dois números inteiros. Teste os métodos criados.
+
+22. Crie a classe Inteiro com os seguintes métodos:
+• que recebe um número inteiro e retorna true se ele for positivo e
+false, caso contrário.
+• que recebe um número inteiro e retorna true se ele for par e false,
+caso contrário.
+• que recebe um número inteiro e retorna true se ele for primo e false,
+caso contrário.
+• Teste os métodos criados com números inteiros lidos do teclado.

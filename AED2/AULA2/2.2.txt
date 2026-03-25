@@ -1,0 +1,8 @@
+1- Teta(O-) de n³
+
+2- O invariante é que de A[0] até o A[i] atual estará corretamente ordenado. Ele não precisa executar o último elemento n pois por se tratar de uma ordenação que lê o minimo do array inteiro e está se ordenando, por estar sempre mantendo essa propriedade é garantido que o último elemento será o maior. O melhor caso é quando se tem apenas um elemento apenas, estando consequentemente já ordenado por isso, enquanto que o pior caso é quando se tem a lista decrescente, pois sempre será necessário ler até o último min-1 (em índice) encontrado.
+
+3- A chance de encotrar o elemento esperado nessas condições é de 1/n, sendo n o total de elementos, logo seria necessário ler em média metade do array em média ((1+2+3...n)/n = (n+1)/2 =~ [para número grandes] n/2). O pior caso seria o elemento a ser buscado estar no fim da lista, sendo necessário ler ela por inteiro. O tempo do caso média seria O(n) e do pior caso O(n);
+
+
+4- Fornecendo a entrada que tem o melhor caso possível.
